@@ -38,4 +38,9 @@ public class MaskPickup : MonoBehaviour, IActivatable, IDisplaysMask
     {
         return transform.position;
     }
+
+    public bool CanInteract()
+    {
+        return true;
+    }
 }

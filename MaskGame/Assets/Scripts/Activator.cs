@@ -51,6 +51,8 @@ public class Activator : MonoBehaviour, IDisplaysMask
         //find all candidates with the highest priority
         for (int ii = 0; ii < activatables.Count; ii++)
         {
+            if (!activatables[ii].CanInteract())
+                continue;
             pri = activatables[ii].GetPriority();
             if (pri > max)
             {
