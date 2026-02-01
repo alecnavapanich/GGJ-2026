@@ -9,11 +9,6 @@ public class MainMenu : MonoBehaviour
         Debug.Log("StartButton called successfully!");
         SceneManager.LoadScene("Game");
     }
-    public void SettingsButton()
-    {
-        Debug.Log("SettingsButton called successfully!");
-        SceneManager.LoadScene("Settings");
-    }
 
     public void ExitButton()
     {
