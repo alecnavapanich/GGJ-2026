@@ -310,6 +310,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
+      propertyPath: acceleration
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
+      propertyPath: deceleration
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: footstepClips.Array.size
       value: 4
       objectReference: {fileID: 0}

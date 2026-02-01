@@ -55,9 +55,9 @@ public class SFXManager : MonoBehaviour
         Destroy(audioSource.gameObject, clipLength);
     }
 
-    public void playGlobal(AudioClip audioClip, float volume = 1f)
+    public void playGlobal(AudioClip audioClip)
     {
         //use camera's position
-        playAudioClip(audioClip, Camera.main.transform, volume);
+        playAudioClip(audioClip, Camera.main.transform);
     }
 }
