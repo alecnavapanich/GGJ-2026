@@ -10,7 +10,10 @@ public class Activator : MonoBehaviour, IDisplaysMask
     // List of Activatables in range
     List<IActivatable> activatables = new List<IActivatable>();
 
-    // TODO: Move this into PlayerMovement once that one changes sprites
+    // Permission Zones the player is in
+    List<PermissionZone> zones = new List<PermissionZone>();
+
+    // TODO: Move this into PlayerMovement once that one changes sprites?
     [SerializeField] SpriteRenderer maskSR;
     [SerializeField] Sprite maskSpr;
     public void Display(Mask.Type type)
@@ -21,6 +24,7 @@ public class Activator : MonoBehaviour, IDisplaysMask
         else
             spr = maskSpr;
         maskSR.sprite = spr;
+        CheckZonePermission();
     }
 
     // Call this when the player hits the Activate button
@@ -93,6 +97,26 @@ public class Activator : MonoBehaviour, IDisplaysMask
         if (act != null)
         {
             activatables.Remove(act);
+        }
+    }
+
+    //TODO: Again maybe move this into PlayerMovement
+    public void EnterZone(PermissionZone zone)
+    {
+        zones.Add(zone);
+        CheckZonePermission();
+    }
+    public void ExitZone(PermissionZone zone)
+    {
+        zones.Remove(zone);
+    }
+    public void CheckZonePermission()
+    {
+        Mask.Type t = GetComponent<Mask>().GetMaskType();
+        foreach (PermissionZone zone in zones)
+        {
+            if (!zone.AllowedMasks().Contains(t))
+                Debug.Log("YOU'RE NOT ALLOWED HERE!!!!! YOU LOSE!!!!!");
         }
     }
 }
