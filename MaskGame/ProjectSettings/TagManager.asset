@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Switch
+    uniqueID: 2084675001
+    locked: 0
   - name: Player
     uniqueID: 3341011891
     locked: 0

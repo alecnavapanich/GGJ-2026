@@ -7,6 +7,8 @@ using UnityEngine;
 public class Switch : MonoBehaviour
 {
     [SerializeField] List<GameObject> linkedObjects; //these objects disappear when this is pressed
+    [SerializeField] Sprite unpressedSprite;
+    [SerializeField] Sprite pressedSprite;
     List<Heavy> pressers = new List<Heavy>();
     bool pressed;
 
@@ -57,8 +59,12 @@ public class Switch : MonoBehaviour
     private void SetPressed(bool b)
     {
         pressed = b;
-        //TODO: change sprite?
-        //PLAY sound effect
+        Sprite s;
+        if (pressed)
+            s = pressedSprite;
+        else
+            s = unpressedSprite;
+        GetComponent<SpriteRenderer>().sprite = s;
         foreach (GameObject obj in linkedObjects)
         {
             obj.SetActive(!b);
