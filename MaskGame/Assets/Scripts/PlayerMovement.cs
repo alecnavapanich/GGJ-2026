@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
         rb.linearVelocity = moveInput*moveSpeed;
         if(moveInput.magnitude > 0)
         {
-            Debug.Log("Moving: Input = " + moveInput);
+            //Debug.Log("Moving: Input = " + moveInput);
         }
 
         HandleFootsteps();
@@ -39,7 +39,7 @@ public class PlayerMovement : MonoBehaviour
 
             if(stepTimer <= 0)
             {
-                SFXManager.instance.playRandomAudioClip(footstepClips, transform, 0.5f);
+                SFXManager.instance?.playRandomAudioClip(footstepClips, transform, 0.5f);
 
                 stepTimer = stepRate;
             }

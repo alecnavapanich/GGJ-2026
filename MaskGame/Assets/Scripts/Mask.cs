@@ -11,7 +11,12 @@ public class Mask : MonoBehaviour
         Medic
     }
 
-    private Type type;
+    [SerializeField] private Type type;
+
+    private void Awake()
+    {
+        SetMaskType(type);
+    }
 
     public void SwapMasks(Mask other)
     {
