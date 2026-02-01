@@ -5,6 +5,8 @@ public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 5f;
+    [SerializeField] private float acceleration = 45f;
+    [SerializeField] private float deceleration = 65f;
 
     [Header("SFX Settings")]
     [SerializeField] private AudioClip[] footstepClips; //array
@@ -22,31 +24,37 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = moveInput*moveSpeed;
-        if(moveInput.magnitude > 0)
-        {
-            //Debug.Log("Moving: Input = " + moveInput);
-        }
-
         HandleFootsteps();
+    }
+
+    void FixedUpdate()
+    {
+        Vector2 targetVelocity = moveInput.normalized*moveSpeed;
+
+        float currentRate = (moveInput.magnitude > 0) ? acceleration : deceleration;
+
+        rb.linearVelocity = Vector2.MoveTowards(
+            rb.linearVelocity,
+            targetVelocity,
+            currentRate*Time.fixedDeltaTime
+        );
     }
 
     private void HandleFootsteps()
     {
-        if(moveInput.magnitude > 0.1f)
+        if(moveInput.sqrMagnitude > 0.01f)
         {
             stepTimer -= Time.deltaTime;
 
             if(stepTimer <= 0)
             {
                 SFXManager.instance?.playRandomAudioClip(footstepClips, transform, 0.5f);
-
                 stepTimer = stepRate;
             }
         }
         else
         {
-            stepTimer = 0;
+            stepTimer = 0.1f;
         }
     }
 
