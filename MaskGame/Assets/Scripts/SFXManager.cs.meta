@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 64b19c2c178b14bb689526a115fc9d38
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sfxObjectPrefab: {fileID: 4165725866200984775, guid: c2460d1006f8f4981bd49ca3e3577cb3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
