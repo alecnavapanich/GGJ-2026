@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Rendering;
 
 public class SFXManager : MonoBehaviour
 {
@@ -53,6 +52,17 @@ public class SFXManager : MonoBehaviour
         //get length of clip and destroy gameObject after finished
         float clipLength = audioSource.clip.length;
         Destroy(audioSource.gameObject, clipLength);
+    }
+
+    private AudioSource musicSource;
+    public void playMusic(AudioClip musicClip, float volume = 0.5f)
+    {
+        musicSource?.Stop();
+        musicSource = Instantiate(sfxObjectPrefab, Vector3.zero, Quaternion.identity);
+        musicSource.clip = musicClip;
+        musicSource.volume = volume;
+        musicSource.loop = true;
+        musicSource.Play();
     }
 
     public void playGlobal(AudioClip audioClip)
