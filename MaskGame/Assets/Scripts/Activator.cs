@@ -5,10 +5,23 @@ using UnityEngine.InputSystem;
 
 //This file handles the context-dependent actions the player can take.
 
-public class Activator : MonoBehaviour
+public class Activator : MonoBehaviour, IDisplaysMask
 {
     // List of Activatables in range
     List<IActivatable> activatables = new List<IActivatable>();
+
+    // TODO: Move this into PlayerMovement once that one changes sprites
+    [SerializeField] SpriteRenderer maskSR;
+    [SerializeField] Sprite maskSpr;
+    public void Display(Mask.Type type)
+    {
+        Sprite spr;
+        if (type == Mask.Type.None)
+            spr = null;
+        else
+            spr = maskSpr;
+        maskSR.sprite = spr;
+    }
 
     // Call this when the player hits the Activate button
     public void DoActivate(InputAction.CallbackContext context)
