@@ -15,14 +15,14 @@ public class Activator : MonoBehaviour, IDisplaysMask
 
     // TODO: Move this into PlayerMovement once that one changes sprites?
     [SerializeField] SpriteRenderer maskSR;
-    [SerializeField] Sprite maskSpr;
+    [SerializeField] SpriteList maskSprites;
     public void Display(Mask.Type type)
     {
         Sprite spr;
         if (type == Mask.Type.None)
             spr = null;
         else
-            spr = maskSpr;
+            spr = maskSprites.GetSprite((int)type);
         maskSR.sprite = spr;
         CheckZonePermission();
     }
