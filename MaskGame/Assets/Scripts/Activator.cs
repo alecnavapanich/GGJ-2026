@@ -7,7 +7,6 @@ using UnityEngine.InputSystem;
 
 public class Activator : MonoBehaviour, IDisplaysMask
 {
-
     // List of Activatables in range
     List<IActivatable> activatables = new List<IActivatable>();
 
@@ -18,6 +17,7 @@ public class Activator : MonoBehaviour, IDisplaysMask
     [SerializeField] SpriteRenderer maskSR;
     [SerializeField] SpriteList maskSprites;
     [SerializeField] GameObject gameOverScreen;
+    [SerializeField] AudioClip gameOverClip;
     public void Display(Mask.Type type)
     {
         Sprite spr;
@@ -120,10 +120,9 @@ public class Activator : MonoBehaviour, IDisplaysMask
         foreach (PermissionZone zone in zones)
         {
             if (!zone.AllowedMasks().Contains(t))
-            {
+                SFXManager.instance.playAudioClip(gameOverClip, transform, 1f);
                 gameOverScreen.SetActive(true);
                 Debug.Log("YOU'RE NOT ALLOWED HERE!!!!! YOU LOSE!!!!!");
-            }
         }
     }
 }
