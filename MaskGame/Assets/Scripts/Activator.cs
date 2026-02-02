@@ -18,6 +18,7 @@ public class Activator : MonoBehaviour, IDisplaysMask
     [SerializeField] SpriteList maskSprites;
     [SerializeField] GameObject gameOverScreen;
     [SerializeField] AudioClip gameOverClip;
+    [SerializeField] AudioClip gameOverClip;
     public void Display(Mask.Type type)
     {
         Sprite spr;
@@ -124,7 +125,6 @@ public class Activator : MonoBehaviour, IDisplaysMask
                 SFXManager.instance.playAudioClip(gameOverClip, transform, 1f);
                 gameOverScreen.SetActive(true);
                 Debug.Log("YOU'RE NOT ALLOWED HERE!!!!! YOU LOSE!!!!!");
-            }
         }
     }
 }
