@@ -1,0 +1,5538 @@
+fileFormatVersion: 2
+guid: 6470c2b0035534322a450f3928c59e61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8627292947702081704
+    second: red mad_001_0
+  - first:
+      213: -2056953863020985748
+    second: red mad_001_1
+  - first:
+      213: -5511031808201487683
+    second: red mad_001_2
+  - first:
+      213: 5724614968584409303
+    second: red mad_001_3
+  - first:
+      213: 7554405426172843332
+    second: red mad_001_4
+  - first:
+      213: -4869096857418213610
+    second: red mad_001_5
+  - first:
+      213: 7786852388838607550
+    second: red mad_001_6
+  - first:
+      213: -5897994199749158517
+    second: red mad_001_7
+  - first:
+      213: -7380031433427171875
+    second: red mad_001_8
+  - first:
+      213: -8598083836468489743
+    second: red mad_001_9
+  - first:
+      213: -6558940733253083286
+    second: red mad_001_10
+  - first:
+      213: 1964373403140866542
+    second: red mad_001_11
+  - first:
+      213: 8292914696596986636
+    second: red mad_001_12
+  - first:
+      213: -2370128933826907636
+    second: red mad_001_13
+  - first:
+      213: -3657487473673243813
+    second: red mad_001_14
+  - first:
+      213: -4272156356564653475
+    second: red mad_001_15
+  - first:
+      213: 2483567277056035579
+    second: red mad_001_16
+  - first:
+      213: -6779489435067013583
+    second: red mad_001_17
+  - first:
+      213: -67160304943660351
+    second: red mad_001_18
+  - first:
+      213: 2705263642822897563
+    second: red mad_001_19
+  - first:
+      213: 2260445353176043184
+    second: red mad_001_20
+  - first:
+      213: -451264671156055593
+    second: red mad_001_21
+  - first:
+      213: 2828065218301204483
+    second: red mad_001_22
+  - first:
+      213: -3687264856430204637
+    second: red mad_001_23
+  - first:
+      213: -5419069419087519150
+    second: red mad_001_24
+  - first:
+      213: 1957513598744511973
+    second: red mad_001_25
+  - first:
+      213: -2265306195190157207
+    second: red mad_001_26
+  - first:
+      213: 8988324033514119284
+    second: red mad_001_27
+  - first:
+      213: -2610470239522000875
+    second: red mad_001_28
+  - first:
+      213: 6491027321019694546
+    second: red mad_001_29
+  - first:
+      213: 1980603568845489688
+    second: red mad_001_30
+  - first:
+      213: 7182842610496852374
+    second: red mad_001_31
+  - first:
+      213: 555186056339588196
+    second: red mad_001_32
+  - first:
+      213: -7000597583422950628
+    second: red mad_001_33
+  - first:
+      213: -5721018948337390556
+    second: red mad_001_34
+  - first:
+      213: 860666185951938553
+    second: red mad_001_35
+  - first:
+      213: 6506855055926582451
+    second: red mad_001_36
+  - first:
+      213: 1807652882590349806
+    second: red mad_001_37
+  - first:
+      213: 1980456527571063683
+    second: red mad_001_38
+  - first:
+      213: 6348360217430391699
+    second: red mad_001_39
+  - first:
+      213: 2569479097392025529
+    second: red mad_001_40
+  - first:
+      213: -4188212601488542415
+    second: red mad_001_41
+  - first:
+      213: -4798718520907450541
+    second: red mad_001_42
+  - first:
+      213: -3856827950369634434
+    second: red mad_001_43
+  - first:
+      213: 3176265350392066302
+    second: red mad_001_44
+  - first:
+      213: -3310948652931704811
+    second: red mad_001_45
+  - first:
+      213: 3554325978237092022
+    second: red mad_001_46
+  - first:
+      213: -4736818928657456197
+    second: red mad_001_47
+  - first:
+      213: -8975578760952677735
+    second: red mad_001_48
+  - first:
+      213: 5437417449106573723
+    second: red mad_001_49
+  - first:
+      213: 1126693483852181165
+    second: red mad_001_50
+  - first:
+      213: 5471121063544856375
+    second: red mad_001_51
+  - first:
+      213: 2983078610530748604
+    second: red mad_001_52
+  - first:
+      213: 7968639000175915363
+    second: red mad_001_53
+  - first:
+      213: 8256193905074035950
+    second: red mad_001_54
+  - first:
+      213: -3751334839619727
+    second: red mad_001_55
+  - first:
+      213: 8691250909629293842
+    second: red mad_001_56
+  - first:
+      213: 2276657799841403663
+    second: red mad_001_57
+  - first:
+      213: 2202561429719587677
+    second: red mad_001_58
+  - first:
+      213: 2746623157813470169
+    second: red mad_001_59
+  - first:
+      213: -4286247604778068407
+    second: red mad_001_60
+  - first:
+      213: 1748880050957190429
+    second: red mad_001_61
+  - first:
+      213: 2441658873998902916
+    second: red mad_001_62
+  - first:
+      213: 845900968264785809
+    second: red mad_001_63
+  - first:
+      213: -6945538406370104929
+    second: red mad_001_64
+  - first:
+      213: -4770931374580744560
+    second: red mad_001_65
+  - first:
+      213: -5042419329986683315
+    second: red mad_001_66
+  - first:
+      213: -2598493731980634142
+    second: red mad_001_67
+  - first:
+      213: -3658218087145026767
+    second: red mad_001_68
+  - first:
+      213: -1989745496217799227
+    second: red mad_001_69
+  - first:
+      213: -3109055385273959837
+    second: red mad_001_70
+  - first:
+      213: 7034974197927492340
+    second: red mad_001_71
+  - first:
+      213: -4461118272020737805
+    second: red mad_001_72
+  - first:
+      213: 2700455199170031180
+    second: red mad_001_73
+  - first:
+      213: -5918289705547528999
+    second: red mad_001_74
+  - first:
+      213: 2526234343210905899
+    second: red mad_001_75
+  - first:
+      213: 5390687446889979885
+    second: red mad_001_76
+  - first:
+      213: -7040292499577896736
+    second: red mad_001_77
+  - first:
+      213: -6841497299559976254
+    second: red mad_001_78
+  - first:
+      213: -5215335070689905858
+    second: red mad_001_79
+  - first:
+      213: 2141311148695275358
+    second: red mad_001_80
+  - first:
+      213: -4051548518888130157
+    second: red mad_001_81
+  - first:
+      213: -9077553636678835811
+    second: red mad_001_82
+  - first:
+      213: -6840591938854972923
+    second: red mad_001_83
+  - first:
+      213: -4630485207008417637
+    second: red mad_001_84
+  - first:
+      213: -3025228080265591980
+    second: red mad_001_85
+  - first:
+      213: 4559894784870211533
+    second: red mad_001_86
+  - first:
+      213: -8149494990681834947
+    second: red mad_001_87
+  - first:
+      213: 7572796765149338847
+    second: red mad_001_88
+  - first:
+      213: -4654104373082723521
+    second: red mad_001_89
+  - first:
+      213: 5247663600688147675
+    second: red mad_001_90
+  - first:
+      213: 3985351890155533514
+    second: red mad_001_91
+  - first:
+      213: 6950874892353028391
+    second: red mad_001_92
+  - first:
+      213: -9115380072693747917
+    second: red mad_001_93
+  - first:
+      213: 4592897666214705650
+    second: red mad_001_94
+  - first:
+      213: -160172958706827235
+    second: red mad_001_95
+  - first:
+      213: 2749178326028992883
+    second: red mad_001_96
+  - first:
+      213: -7409494692811458381
+    second: red mad_001_97
+  - first:
+      213: -6548002449746547957
+    second: red mad_001_98
+  - first:
+      213: 6933678944750488263
+    second: red mad_001_99
+  - first:
+      213: -1727910574570062125
+    second: red mad_001_100
+  - first:
+      213: -8789747145950061781
+    second: red mad_001_101
+  - first:
+      213: -1475382715517661931
+    second: red mad_001_102
+  - first:
+      213: -298298624568604971
+    second: red mad_001_103
+  - first:
+      213: 1327293637581920987
+    second: red mad_001_104
+  - first:
+      213: 4340839893855243698
+    second: red mad_001_105
+  - first:
+      213: -8567773682071853644
+    second: red mad_001_106
+  - first:
+      213: -4422919503306061126
+    second: red mad_001_107
+  - first:
+      213: 3526713113357369499
+    second: red mad_001_108
+  - first:
+      213: 1838076073225388189
+    second: red mad_001_109
+  - first:
+      213: -6971635434392010809
+    second: red mad_001_110
+  - first:
+      213: 3559340354891528601
+    second: red mad_001_111
+  - first:
+      213: 2194720262936945420
+    second: red mad_001_112
+  - first:
+      213: 1007740281573212197
+    second: red mad_001_113
+  - first:
+      213: 8910309599241668531
+    second: red mad_001_114
+  - first:
+      213: 4068582289453009756
+    second: red mad_001_115
+  - first:
+      213: 2640937420331539711
+    second: red mad_001_116
+  - first:
+      213: 8431533757442458260
+    second: red mad_001_117
+  - first:
+      213: 5309775663086647763
+    second: red mad_001_118
+  - first:
+      213: 555244344154454339
+    second: red mad_001_119
+  - first:
+      213: -6423407358171132789
+    second: red mad_001_120
+  - first:
+      213: 7575648627748985501
+    second: red mad_001_121
+  - first:
+      213: -1855453428518263204
+    second: red mad_001_122
+  - first:
+      213: 7879372035931045770
+    second: red mad_001_123
+  - first:
+      213: 1250660753212118747
+    second: red mad_001_124
+  - first:
+      213: -5995329990353875148
+    second: red mad_001_125
+  - first:
+      213: 9197313214549835380
+    second: red mad_001_126
+  - first:
+      213: -4470900338236047211
+    second: red mad_001_127
+  - first:
+      213: 7734651073415054269
+    second: red mad_001_128
+  - first:
+      213: -859948907555494971
+    second: red mad_001_129
+  - first:
+      213: -5094564890772459721
+    second: red mad_001_130
+  - first:
+      213: 1436369827262211624
+    second: red mad_001_131
+  - first:
+      213: -6121838892852008560
+    second: red mad_001_132
+  - first:
+      213: -3127267395335591951
+    second: red mad_001_133
+  - first:
+      213: -5198344489574843438
+    second: red mad_001_134
+  - first:
+      213: 433381838153175747
+    second: red mad_001_135
+  - first:
+      213: 2517388542980067915
+    second: red mad_001_136
+  - first:
+      213: -5938511580442390593
+    second: red mad_001_137
+  - first:
+      213: 8209990604289224013
+    second: red mad_001_138
+  - first:
+      213: 6434885913421492980
+    second: red mad_001_139
+  - first:
+      213: -3862132491874775546
+    second: red mad_001_140
+  - first:
+      213: 4656059989802157630
+    second: red mad_001_141
+  - first:
+      213: -5952661362810521655
+    second: red mad_001_142
+  - first:
+      213: 6295895614715903553
+    second: red mad_001_143
+  - first:
+      213: 5503336554096801447
+    second: red mad_001_144
+  - first:
+      213: -2916104795611084680
+    second: red mad_001_145
+  - first:
+      213: -865032401871861613
+    second: red mad_001_146
+  - first:
+      213: 9104544553578706188
+    second: red mad_001_147
+  - first:
+      213: 5364977170521573240
+    second: red mad_001_148
+  - first:
+      213: 2909542143237007650
+    second: red mad_001_149
+  - first:
+      213: -8260957247437554333
+    second: red mad_001_150
+  - first:
+      213: -8273064924919319190
+    second: red mad_001_151
+  - first:
+      213: 7679335410214701375
+    second: red mad_001_152
+  - first:
+      213: 1143395155470829965
+    second: red mad_001_153
+  - first:
+      213: 2871581805067327665
+    second: red mad_001_154
+  - first:
+      213: 6548988927507274784
+    second: red mad_001_155
+  - first:
+      213: 1022749463490240444
+    second: red mad_001_156
+  - first:
+      213: -3771895269865896828
+    second: red mad_001_157
+  - first:
+      213: -1505545878974844461
+    second: red mad_001_158
+  - first:
+      213: 8296933928312278146
+    second: red mad_001_159
+  - first:
+      213: 6359665126853140569
+    second: red mad_001_160
+  - first:
+      213: -8257852546345079966
+    second: red mad_001_161
+  - first:
+      213: -6524485655265849097
+    second: red mad_001_162
+  - first:
+      213: 3548645821035032610
+    second: red mad_001_163
+  - first:
+      213: 6859895529890740649
+    second: red mad_001_164
+  - first:
+      213: 1159254340823044336
+    second: red mad_001_165
+  - first:
+      213: -1916782243869300980
+    second: red mad_001_166
+  - first:
+      213: 376162870682574474
+    second: red mad_001_167
+  - first:
+      213: 395652099799503221
+    second: red mad_001_168
+  - first:
+      213: -5908304056235138152
+    second: red mad_001_169
+  - first:
+      213: -5277211323518758469
+    second: red mad_001_170
+  - first:
+      213: -4033000824341737982
+    second: red mad_001_171
+  - first:
+      213: -1797348652447997411
+    second: red mad_001_172
+  - first:
+      213: -7367396744715738602
+    second: red mad_001_173
+  - first:
+      213: -2337641541384979811
+    second: red mad_001_174
+  - first:
+      213: 1217745931290141216
+    second: red mad_001_175
+  - first:
+      213: -2994826736639554780
+    second: red mad_001_176
+  - first:
+      213: -6687370215690582741
+    second: red mad_001_177
+  - first:
+      213: -4431279667408833706
+    second: red mad_001_178
+  - first:
+      213: -4672114201369142147
+    second: red mad_001_179
+  - first:
+      213: 9092063089408423822
+    second: red mad_001_180
+  - first:
+      213: -3254373141562614133
+    second: red mad_001_181
+  - first:
+      213: -1793185936647997033
+    second: red mad_001_182
+  - first:
+      213: 842359575519577170
+    second: red mad_001_183
+  - first:
+      213: 3613495314029518608
+    second: red mad_001_184
+  - first:
+      213: -3013646914749597463
+    second: red mad_001_185
+  - first:
+      213: -1074154227041968275
+    second: red mad_001_186
+  - first:
+      213: -8638170739158548118
+    second: red mad_001_187
+  - first:
+      213: -4085871713794321534
+    second: red mad_001_188
+  - first:
+      213: -5182096072743754838
+    second: red mad_001_189
+  - first:
+      213: 5421530783447551466
+    second: red mad_001_190
+  - first:
+      213: -8604301843635573690
+    second: red mad_001_191
+  - first:
+      213: -8227399546037801271
+    second: red mad_001_192
+  - first:
+      213: -3166773748788882706
+    second: red mad_001_193
+  - first:
+      213: -5977497423733025391
+    second: red mad_001_194
+  - first:
+      213: -4770164535183261195
+    second: red mad_001_195
+  - first:
+      213: -5927903829658263772
+    second: red mad_001_196
+  - first:
+      213: 7736740995401342620
+    second: red mad_001_197
+  - first:
+      213: -50313468220114257
+    second: red mad_001_198
+  - first:
+      213: 7363496146697846304
+    second: red mad_001_199
+  - first:
+      213: -9129563359115547645
+    second: red mad_001_200
+  - first:
+      213: -6636639538464286656
+    second: red mad_001_201
+  - first:
+      213: -768030073999789309
+    second: red mad_001_202
+  - first:
+      213: 6617758828907518637
+    second: red mad_001_203
+  - first:
+      213: 3078797681484480651
+    second: red mad_001_204
+  - first:
+      213: -1098032778038110330
+    second: red mad_001_205
+  - first:
+      213: -6553623318948187127
+    second: red mad_001_206
+  - first:
+      213: -5804213289477496693
+    second: red mad_001_207
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red mad_001_0
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1157
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571cfef5c2b54880800000000000000
+      internalID: -8627292947702081704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1156
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62444b1c5b3473e0800000000000000
+      internalID: -2056953863020985748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_2
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1146
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba8546e4c1e483b0800000000000000
+      internalID: -5511031808201487683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 1121
+        height: 1153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09b5ecbfae17f40800000000000000
+      internalID: 5724614968584409303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1149
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d05cc5b3a6d860800000000000000
+      internalID: 7554405426172843332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1143
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617dd9ca43e7d6cb0800000000000000
+      internalID: -4869096857418213610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1143
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba802bbdf4701c60800000000000000
+      internalID: 7786852388838607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1140
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8913a4368d162ea0800000000000000
+      internalID: -5897994199749158517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1127
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd54b5b238cd49990800000000000000
+      internalID: -7380031433427171875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1133
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1944a2e487da880800000000000000
+      internalID: -8598083836468489743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1121
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f1c936726f9f4a0800000000000000
+      internalID: -6558940733253083286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1006
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cf64d33bd24b10800000000000000
+      internalID: 1964373403140866542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1111
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b97439af9561370800000000000000
+      internalID: 8292914696596986636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1088
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023f5bca4c9b1fd0800000000000000
+      internalID: -2370128933826907636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1094
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f349558efd3dc0800000000000000
+      internalID: -3657487473673243813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1088
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a6906bd6046b4c0800000000000000
+      internalID: -4272156356564653475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1081
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa85bca747677220800000000000000
+      internalID: 2483567277056035579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_17
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1075
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1362150374a6ae1a0800000000000000
+      internalID: -6779489435067013583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1066
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c283d8fe06611ff0800000000000000
+      internalID: -67160304943660351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1043
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fec3633f60b8520800000000000000
+      internalID: 2705263642822897563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_20
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1036
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be8d368217be5f10800000000000000
+      internalID: 2260445353176043184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1014
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15f082c29ccb9f0800000000000000
+      internalID: -451264671156055593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 992
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081b72155e4f3720800000000000000
+      internalID: 2828065218301204483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1002
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32922b7262434dcc0800000000000000
+      internalID: -3687264856430204637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 985
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2522b1623199bc4b0800000000000000
+      internalID: -5419069419087519150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 998
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c9282f3c7a2b10800000000000000
+      internalID: 1957513598744511973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1006
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960f23084040090e0800000000000000
+      internalID: -2265306195190157207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 990
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47027b71611fcbc70800000000000000
+      internalID: 8988324033514119284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 990
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ff84e52fb5cbd0800000000000000
+      internalID: -2610470239522000875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_29
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddfbb025f2c41a50800000000000000
+      internalID: 6491027321019694546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_30
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 988
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81608e1c3748c7b10800000000000000
+      internalID: 1980603568845489688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 918
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69154344c459ea360800000000000000
+      internalID: 7182842610496852374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 930
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640f58d6ca64b700800000000000000
+      internalID: 555186056339588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 872
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13fd90b691e8de90800000000000000
+      internalID: -7000597583422950628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 824
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c2217e39bda90b0800000000000000
+      internalID: -5721018948337390556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 845
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f70bdb0653b1fb00800000000000000
+      internalID: 860666185951938553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_36
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 801
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc5575d23efc4a50800000000000000
+      internalID: 6506855055926582451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 143
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9320828b2161910800000000000000
+      internalID: 1807652882590349806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 701
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3831afa08befb7b10800000000000000
+      internalID: 1980456527571063683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 693
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf8229bf7e91850800000000000000
+      internalID: 6348360217430391699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 662
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc7d910af98a320800000000000000
+      internalID: 2569479097392025529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 615
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f57c34da70e5c0800000000000000
+      internalID: -4188212601488542415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 618
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35739301ee6876db0800000000000000
+      internalID: -4798718520907450541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 623
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e778b6ad96bc97ac0800000000000000
+      internalID: -3856827950369634434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_44
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 627
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef03082f18c541c20800000000000000
+      internalID: 3176265350392066302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 633
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51892780eb52d02d0800000000000000
+      internalID: -3310948652931704811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 636
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0c3c445a0835130800000000000000
+      internalID: 3554325978237092022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 638
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3a608f740734eb0800000000000000
+      internalID: -4736818928657456197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 649
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99affdbeba6507380800000000000000
+      internalID: -8975578760952677735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 643
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99028d7c56957b40800000000000000
+      internalID: 5437417449106573723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 611
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daea1cb01c1d2af00800000000000000
+      internalID: 1126693483852181165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 654
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9fbbbe935deb40800000000000000
+      internalID: 5471121063544856375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 654
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb840c5f036066920800000000000000
+      internalID: 2983078610530748604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_53
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 658
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613fc473fa469e60800000000000000
+      internalID: 7968639000175915363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 661
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecdeac0d94e39270800000000000000
+      internalID: 8256193905074035950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 666
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f637b4e2ca2fff0800000000000000
+      internalID: -3751334839619727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_56
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 672
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215ae3277a68d9870800000000000000
+      internalID: 8691250909629293842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 676
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035baae430589f10800000000000000
+      internalID: 2276657799841403663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_58
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 619
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b996e53f1119e10800000000000000
+      internalID: 2202561429719587677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_59
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 613
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d36555b537fd1620800000000000000
+      internalID: 2746623157813470169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 680
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94695d153803484c0800000000000000
+      internalID: -4286247604778068407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_61
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 688
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d150210f325454810800000000000000
+      internalID: 1748880050957190429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 687
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48682673fc382e120800000000000000
+      internalID: 2441658873998902916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 690
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fd498e27e3dbb00800000000000000
+      internalID: 845900968264785809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 696
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f992a725e9d7c9f90800000000000000
+      internalID: -6945538406370104929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_65
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 696
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e395a313f3acdb0800000000000000
+      internalID: -4770931374580744560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_66
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 698
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9493d55ab50ab0800000000000000
+      internalID: -5042419329986683315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 698
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7173ad7bb40fbd0800000000000000
+      internalID: -2598493731980634142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_68
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 702
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcfc428066b3dc0800000000000000
+      internalID: -3658218087145026767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_69
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 703
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5318863010364e0800000000000000
+      internalID: -1989745496217799227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_70
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 706
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36afabd799a6ad4d0800000000000000
+      internalID: -3109055385273959837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 711
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab18792cf31a160800000000000000
+      internalID: 7034974197927492340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 719
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0133f419ce612c0800000000000000
+      internalID: -4461118272020737805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ee26e22b1f97520800000000000000
+      internalID: 2700455199170031180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_74
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 602
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d40df68ed20edda0800000000000000
+      internalID: -5918289705547528999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 538
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b217a7620ccfe0320800000000000000
+      internalID: 2526234343210905899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_76
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 603
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defd80ffba19fca40800000000000000
+      internalID: 5390687446889979885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_77
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 575
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e000dfc54bdb4e90800000000000000
+      internalID: -7040292499577896736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2feef247e1e01a0800000000000000
+      internalID: -6841497299559976254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 582
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3334ee92686f97b0800000000000000
+      internalID: -5215335070689905858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_80
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 570
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c093052777bd10800000000000000
+      internalID: 2141311148695275358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_81
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 565
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b96d861206c7c0800000000000000
+      internalID: -4051548518888130157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_82
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 528
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91e338ff0d060280800000000000000
+      internalID: -9077553636678835811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 248
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021627efd55111a0800000000000000
+      internalID: -6840591938854972923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_84
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 465
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98ef82dc363dbfb0800000000000000
+      internalID: -4630485207008417637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_85
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 495
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4538b3fd61b3406d0800000000000000
+      internalID: -3025228080265591980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_86
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 496
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf5851c520084f30800000000000000
+      internalID: 4559894784870211533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 487
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a759ddb7d27ee80800000000000000
+      internalID: -8149494990681834947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 488
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc14f6198af71960800000000000000
+      internalID: 7572796765149338847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_89
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 432
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3befce2bbc496fb0800000000000000
+      internalID: -4654104373082723521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_90
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 475
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdca3c3dd3273d840800000000000000
+      internalID: 5247663600688147675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_91
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 480
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f6a5cd60de4730800000000000000
+      internalID: 3985351890155533514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_92
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 479
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72142e423e7767060800000000000000
+      internalID: 6950874892353028391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_93
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 466
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2a668e1aaf7180800000000000000
+      internalID: -9115380072693747917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_94
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 455
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b27cd7104dbf30800000000000000
+      internalID: 4592897666214705650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_95
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 469
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1008adea83f6cdf0800000000000000
+      internalID: -160172958706827235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_96
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 460
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371492b2f1b072620800000000000000
+      internalID: 2749178326028992883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_97
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 455
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8b4d585df2c2990800000000000000
+      internalID: -7409494692811458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b287af672d025a0800000000000000
+      internalID: -6548002449746547957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 446
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca45789340693060800000000000000
+      internalID: 6933678944750488263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_100
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 439
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3c1fbc7a3508e0800000000000000
+      internalID: -1727910574570062125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 436
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b94247a8b840680800000000000000
+      internalID: -8789747145950061781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_102
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 448
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d81d5bc33668be0800000000000000
+      internalID: -1475382715517661931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_103
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 448
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c99d3bfa3cdbf0800000000000000
+      internalID: -298298624568604971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_104
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 446
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdad4b4f78e7b6210800000000000000
+      internalID: 1327293637581920987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_105
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 449
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd061c72e2cd3c30800000000000000
+      internalID: 4340839893855243698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 416
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5aa2cea37291980800000000000000
+      internalID: -8567773682071853644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_107
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 427
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba8b473522ae92c0800000000000000
+      internalID: -4422919503306061126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 419
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90c06a24e661f030800000000000000
+      internalID: 3526713113357369499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 433
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908eb63378228910800000000000000
+      internalID: 1838076073225388189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 423
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfb98d7286cf3f90800000000000000
+      internalID: -6971635434392010809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_111
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 424
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999b500d131556130800000000000000
+      internalID: 3559340354891528601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_112
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 421
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0365b57376357e10800000000000000
+      internalID: 2194720262936945420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_113
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 426
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520060562763cfd00800000000000000
+      internalID: 1007740281573212197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b78d852f57c7ab70800000000000000
+      internalID: 8910309599241668531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_115
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 416
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bca463902867830800000000000000
+      internalID: 4068582289453009756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_116
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 413
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd5ec679e76a420800000000000000
+      internalID: 2640937420331539711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_117
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 407
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492821cb743d20570800000000000000
+      internalID: 8431533757442458260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_118
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 411
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93b4b45dc10b940800000000000000
+      internalID: 5309775663086647763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 407
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349fed80acf94b700800000000000000
+      internalID: 555244344154454339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_120
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c44985a097bd6a0800000000000000
+      internalID: -6423407358171132789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_121
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 407
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a57281a4c122960800000000000000
+      internalID: 7575648627748985501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_122
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 406
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5663e7ffea1046e0800000000000000
+      internalID: -1855453428518263204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 392
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff0d6be17295d60800000000000000
+      internalID: 7879372035931045770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_124
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61bb9245d3b5110800000000000000
+      internalID: 1250660753212118747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_125
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f06bd632f4ccca0800000000000000
+      internalID: -5995329990353875148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_126
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 397
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ebf31a3ab63af70800000000000000
+      internalID: 9197313214549835380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_127
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 384
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590444984db24f1c0800000000000000
+      internalID: -4470900338236047211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_128
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38f7cdb20075b60800000000000000
+      internalID: 7734651073415054269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_129
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c36b285609d014f0800000000000000
+      internalID: -859948907555494971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_130
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 378
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa45859387c49b0800000000000000
+      internalID: -5094564890772459721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_131
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 378
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826ad086fb20fe310800000000000000
+      internalID: 1436369827262211624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_132
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a26b36fbda0ba0800000000000000
+      internalID: -6121838892852008560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_133
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 382
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f76c577fd6b994d0800000000000000
+      internalID: -3127267395335591951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_134
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 350
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db38ce8a35cbd7b0800000000000000
+      internalID: -5198344489574843438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_135
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 369
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2d9335c7ea30600800000000000000
+      internalID: 433381838153175747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_136
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 364
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4217f9ca8f8fe220800000000000000
+      internalID: 2517388542980067915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_137
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 325
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf00316e2b269da0800000000000000
+      internalID: -5938511580442390593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_138
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 331
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d24f9c4febfe170800000000000000
+      internalID: 8209990604289224013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_139
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 206
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f237af05ae4d4950800000000000000
+      internalID: 6434885913421492980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_140
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 267
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e4f4a06f2f66ac0800000000000000
+      internalID: -3862132491874775546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_141
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36011154e5ad9040800000000000000
+      internalID: 4656059989802157630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_142
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 300
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c77c717706e36da0800000000000000
+      internalID: -5952661362810521655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_143
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 277
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb41a54b38f5750800000000000000
+      internalID: 6295895614715903553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_144
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 299
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6bc522077cf5c40800000000000000
+      internalID: 5503336554096801447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_145
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 252
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c9c9732ae787d0800000000000000
+      internalID: -2916104795611084680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_146
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 257
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39889371d99cef3f0800000000000000
+      internalID: -865032401871861613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_147
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 256
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b6c59807d95e70800000000000000
+      internalID: 9104544553578706188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_148
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 243
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c40dcf4a347a40800000000000000
+      internalID: 5364977170521573240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_149
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 248
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229aba2f925c06820800000000000000
+      internalID: 2909542143237007650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_150
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 231
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dbbc1e62f2b5d80800000000000000
+      internalID: -8260957247437554333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_151
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 203
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65b07a884b203d80800000000000000
+      internalID: -8273064924919319190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_152
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f390de46eda729a60800000000000000
+      internalID: 7679335410214701375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_153
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 173
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89cdbff5d72edf00800000000000000
+      internalID: 1143395155470829965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_154
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 136
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8538aff68e9d720800000000000000
+      internalID: 2871581805067327665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_155
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 130
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c99064bbea2ea50800000000000000
+      internalID: 6548988927507274784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_156
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9e81e739813e00800000000000000
+      internalID: 1022749463490240444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_157
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 97
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484caa58c3987abc0800000000000000
+      internalID: -3771895269865896828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_158
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1b6a2fff93b1be0800000000000000
+      internalID: -1505545878974844461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_159
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c80f1e271a42370800000000000000
+      internalID: 8296933928312278146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_160
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 94
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506588ecb1124850800000000000000
+      internalID: 6359665126853140569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_161
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 83
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26beb8f6cd6366d80800000000000000
+      internalID: -8257852546345079966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_162
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f05fbf5dde5475a0800000000000000
+      internalID: -6524485655265849097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_163
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 69
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220b77c92925f3130800000000000000
+      internalID: 3548645821035032610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_164
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a97d6f93ae333f50800000000000000
+      internalID: 6859895529890740649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_165
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f056155eaf761010800000000000000
+      internalID: 1159254340823044336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_166
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 60
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07e46a64b83665e0800000000000000
+      internalID: -1916782243869300980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_167
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 56
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ed9bc4326683500800000000000000
+      internalID: 376162870682574474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571df2f0d73ad7500800000000000000
+      internalID: 395652099799503221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_169
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893ea1fa3cc710ea0800000000000000
+      internalID: -5908304056235138152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_170
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 37
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1def8d24493c6b0800000000000000
+      internalID: -5277211323518758469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_171
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec0463e17e708c0800000000000000
+      internalID: -4033000824341737982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_172
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 46
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126f416ce88e07e0800000000000000
+      internalID: -1797348652447997411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_173
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 52
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61269dfd1bfb1c990800000000000000
+      internalID: -7367396744715738602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_174
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 51
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a3d8947670f8fd0800000000000000
+      internalID: -2337641541384979811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_175
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e93df87d46e010800000000000000
+      internalID: 1217745931290141216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bc1c643fc3076d0800000000000000
+      internalID: -2994826736639554780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_177
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 37
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254c345830b133a0800000000000000
+      internalID: -6687370215690582741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 43
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537fa3de9ee082c0800000000000000
+      internalID: -4431279667408833706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_179
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 38
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c955543e0592fb0800000000000000
+      internalID: -4672114201369142147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_180
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8731af353f7d2e70800000000000000
+      internalID: 9092063089408423822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_181
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e9692ced426d2d0800000000000000
+      internalID: -3254373141562614133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_182
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799bedd24e25d17e0800000000000000
+      internalID: -1793185936647997033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_183
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544ef72299a0bb00800000000000000
+      internalID: 842359575519577170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_184
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 40
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f944ec7d6b52230800000000000000
+      internalID: 3613495314029518608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_185
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 44
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f5e719106d26d0800000000000000
+      internalID: -3013646914749597463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_186
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdd2feb66d711f0800000000000000
+      internalID: -1074154227041968275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_187
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61084fca7d0f1880800000000000000
+      internalID: -8638170739158548118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_188
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283197df2511c47c0800000000000000
+      internalID: -4085871713794321534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_189
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa36928e31f7518b0800000000000000
+      internalID: -5182096072743754838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_190
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8c36e5852d3b40800000000000000
+      internalID: 5421530783447551466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_191
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cecdd8f01679880800000000000000
+      internalID: -8604301843635573690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_192
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cee43914b762dd80800000000000000
+      internalID: -8227399546037801271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_193
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee21863cd0c5d04d0800000000000000
+      internalID: -3166773748788882706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_194
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195949463c9ab0da0800000000000000
+      internalID: -5977497423733025391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_195
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 25
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f14c30f0a8fccdb0800000000000000
+      internalID: -4770164535183261195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_196
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f9a82dfdadbbda0800000000000000
+      internalID: -5927903829658263772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_197
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e591eb1fc6e5b60800000000000000
+      internalID: 7736740995401342620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_198
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa725fca204d4ff0800000000000000
+      internalID: -50313468220114257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_199
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef1e06bb4603660800000000000000
+      internalID: 7363496146697846304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_200
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cee71de764d4180800000000000000
+      internalID: -9129563359115547645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_201
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048168f808be5e3a0800000000000000
+      internalID: -6636639538464286656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_202
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303fc6687b86755f0800000000000000
+      internalID: -768030073999789309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_203
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 16
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daadc3ea79007db50800000000000000
+      internalID: 6617758828907518637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_204
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80cd2cdd261aba20800000000000000
+      internalID: 3078797681484480651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 14
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879d49810103c0f0800000000000000
+      internalID: -1098032778038110330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_206
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047062605adc05a0800000000000000
+      internalID: -6553623318948187127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red mad_001_207
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a718e3ca437fa0800000000000000
+      internalID: -5804213289477496693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      red mad_001_0: -8627292947702081704
+      red mad_001_1: -2056953863020985748
+      red mad_001_10: -6558940733253083286
+      red mad_001_100: -1727910574570062125
+      red mad_001_101: -8789747145950061781
+      red mad_001_102: -1475382715517661931
+      red mad_001_103: -298298624568604971
+      red mad_001_104: 1327293637581920987
+      red mad_001_105: 4340839893855243698
+      red mad_001_106: -8567773682071853644
+      red mad_001_107: -4422919503306061126
+      red mad_001_108: 3526713113357369499
+      red mad_001_109: 1838076073225388189
+      red mad_001_11: 1964373403140866542
+      red mad_001_110: -6971635434392010809
+      red mad_001_111: 3559340354891528601
+      red mad_001_112: 2194720262936945420
+      red mad_001_113: 1007740281573212197
+      red mad_001_114: 8910309599241668531
+      red mad_001_115: 4068582289453009756
+      red mad_001_116: 2640937420331539711
+      red mad_001_117: 8431533757442458260
+      red mad_001_118: 5309775663086647763
+      red mad_001_119: 555244344154454339
+      red mad_001_12: 8292914696596986636
+      red mad_001_120: -6423407358171132789
+      red mad_001_121: 7575648627748985501
+      red mad_001_122: -1855453428518263204
+      red mad_001_123: 7879372035931045770
+      red mad_001_124: 1250660753212118747
+      red mad_001_125: -5995329990353875148
+      red mad_001_126: 9197313214549835380
+      red mad_001_127: -4470900338236047211
+      red mad_001_128: 7734651073415054269
+      red mad_001_129: -859948907555494971
+      red mad_001_13: -2370128933826907636
+      red mad_001_130: -5094564890772459721
+      red mad_001_131: 1436369827262211624
+      red mad_001_132: -6121838892852008560
+      red mad_001_133: -3127267395335591951
+      red mad_001_134: -5198344489574843438
+      red mad_001_135: 433381838153175747
+      red mad_001_136: 2517388542980067915
+      red mad_001_137: -5938511580442390593
+      red mad_001_138: 8209990604289224013
+      red mad_001_139: 6434885913421492980
+      red mad_001_14: -3657487473673243813
+      red mad_001_140: -3862132491874775546
+      red mad_001_141: 4656059989802157630
+      red mad_001_142: -5952661362810521655
+      red mad_001_143: 6295895614715903553
+      red mad_001_144: 5503336554096801447
+      red mad_001_145: -2916104795611084680
+      red mad_001_146: -865032401871861613
+      red mad_001_147: 9104544553578706188
+      red mad_001_148: 5364977170521573240
+      red mad_001_149: 2909542143237007650
+      red mad_001_15: -4272156356564653475
+      red mad_001_150: -8260957247437554333
+      red mad_001_151: -8273064924919319190
+      red mad_001_152: 7679335410214701375
+      red mad_001_153: 1143395155470829965
+      red mad_001_154: 2871581805067327665
+      red mad_001_155: 6548988927507274784
+      red mad_001_156: 1022749463490240444
+      red mad_001_157: -3771895269865896828
+      red mad_001_158: -1505545878974844461
+      red mad_001_159: 8296933928312278146
+      red mad_001_16: 2483567277056035579
+      red mad_001_160: 6359665126853140569
+      red mad_001_161: -8257852546345079966
+      red mad_001_162: -6524485655265849097
+      red mad_001_163: 3548645821035032610
+      red mad_001_164: 6859895529890740649
+      red mad_001_165: 1159254340823044336
+      red mad_001_166: -1916782243869300980
+      red mad_001_167: 376162870682574474
+      red mad_001_168: 395652099799503221
+      red mad_001_169: -5908304056235138152
+      red mad_001_17: -6779489435067013583
+      red mad_001_170: -5277211323518758469
+      red mad_001_171: -4033000824341737982
+      red mad_001_172: -1797348652447997411
+      red mad_001_173: -7367396744715738602
+      red mad_001_174: -2337641541384979811
+      red mad_001_175: 1217745931290141216
+      red mad_001_176: -2994826736639554780
+      red mad_001_177: -6687370215690582741
+      red mad_001_178: -4431279667408833706
+      red mad_001_179: -4672114201369142147
+      red mad_001_18: -67160304943660351
+      red mad_001_180: 9092063089408423822
+      red mad_001_181: -3254373141562614133
+      red mad_001_182: -1793185936647997033
+      red mad_001_183: 842359575519577170
+      red mad_001_184: 3613495314029518608
+      red mad_001_185: -3013646914749597463
+      red mad_001_186: -1074154227041968275
+      red mad_001_187: -8638170739158548118
+      red mad_001_188: -4085871713794321534
+      red mad_001_189: -5182096072743754838
+      red mad_001_19: 2705263642822897563
+      red mad_001_190: 5421530783447551466
+      red mad_001_191: -8604301843635573690
+      red mad_001_192: -8227399546037801271
+      red mad_001_193: -3166773748788882706
+      red mad_001_194: -5977497423733025391
+      red mad_001_195: -4770164535183261195
+      red mad_001_196: -5927903829658263772
+      red mad_001_197: 7736740995401342620
+      red mad_001_198: -50313468220114257
+      red mad_001_199: 7363496146697846304
+      red mad_001_2: -5511031808201487683
+      red mad_001_20: 2260445353176043184
+      red mad_001_200: -9129563359115547645
+      red mad_001_201: -6636639538464286656
+      red mad_001_202: -768030073999789309
+      red mad_001_203: 6617758828907518637
+      red mad_001_204: 3078797681484480651
+      red mad_001_205: -1098032778038110330
+      red mad_001_206: -6553623318948187127
+      red mad_001_207: -5804213289477496693
+      red mad_001_21: -451264671156055593
+      red mad_001_22: 2828065218301204483
+      red mad_001_23: -3687264856430204637
+      red mad_001_24: -5419069419087519150
+      red mad_001_25: 1957513598744511973
+      red mad_001_26: -2265306195190157207
+      red mad_001_27: 8988324033514119284
+      red mad_001_28: -2610470239522000875
+      red mad_001_29: 6491027321019694546
+      red mad_001_3: 5724614968584409303
+      red mad_001_30: 1980603568845489688
+      red mad_001_31: 7182842610496852374
+      red mad_001_32: 555186056339588196
+      red mad_001_33: -7000597583422950628
+      red mad_001_34: -5721018948337390556
+      red mad_001_35: 860666185951938553
+      red mad_001_36: 6506855055926582451
+      red mad_001_37: 1807652882590349806
+      red mad_001_38: 1980456527571063683
+      red mad_001_39: 6348360217430391699
+      red mad_001_4: 7554405426172843332
+      red mad_001_40: 2569479097392025529
+      red mad_001_41: -4188212601488542415
+      red mad_001_42: -4798718520907450541
+      red mad_001_43: -3856827950369634434
+      red mad_001_44: 3176265350392066302
+      red mad_001_45: -3310948652931704811
+      red mad_001_46: 3554325978237092022
+      red mad_001_47: -4736818928657456197
+      red mad_001_48: -8975578760952677735
+      red mad_001_49: 5437417449106573723
+      red mad_001_5: -4869096857418213610
+      red mad_001_50: 1126693483852181165
+      red mad_001_51: 5471121063544856375
+      red mad_001_52: 2983078610530748604
+      red mad_001_53: 7968639000175915363
+      red mad_001_54: 8256193905074035950
+      red mad_001_55: -3751334839619727
+      red mad_001_56: 8691250909629293842
+      red mad_001_57: 2276657799841403663
+      red mad_001_58: 2202561429719587677
+      red mad_001_59: 2746623157813470169
+      red mad_001_6: 7786852388838607550
+      red mad_001_60: -4286247604778068407
+      red mad_001_61: 1748880050957190429
+      red mad_001_62: 2441658873998902916
+      red mad_001_63: 845900968264785809
+      red mad_001_64: -6945538406370104929
+      red mad_001_65: -4770931374580744560
+      red mad_001_66: -5042419329986683315
+      red mad_001_67: -2598493731980634142
+      red mad_001_68: -3658218087145026767
+      red mad_001_69: -1989745496217799227
+      red mad_001_7: -5897994199749158517
+      red mad_001_70: -3109055385273959837
+      red mad_001_71: 7034974197927492340
+      red mad_001_72: -4461118272020737805
+      red mad_001_73: 2700455199170031180
+      red mad_001_74: -5918289705547528999
+      red mad_001_75: 2526234343210905899
+      red mad_001_76: 5390687446889979885
+      red mad_001_77: -7040292499577896736
+      red mad_001_78: -6841497299559976254
+      red mad_001_79: -5215335070689905858
+      red mad_001_8: -7380031433427171875
+      red mad_001_80: 2141311148695275358
+      red mad_001_81: -4051548518888130157
+      red mad_001_82: -9077553636678835811
+      red mad_001_83: -6840591938854972923
+      red mad_001_84: -4630485207008417637
+      red mad_001_85: -3025228080265591980
+      red mad_001_86: 4559894784870211533
+      red mad_001_87: -8149494990681834947
+      red mad_001_88: 7572796765149338847
+      red mad_001_89: -4654104373082723521
+      red mad_001_9: -8598083836468489743
+      red mad_001_90: 5247663600688147675
+      red mad_001_91: 3985351890155533514
+      red mad_001_92: 6950874892353028391
+      red mad_001_93: -9115380072693747917
+      red mad_001_94: 4592897666214705650
+      red mad_001_95: -160172958706827235
+      red mad_001_96: 2749178326028992883
+      red mad_001_97: -7409494692811458381
+      red mad_001_98: -6548002449746547957
+      red mad_001_99: 6933678944750488263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
