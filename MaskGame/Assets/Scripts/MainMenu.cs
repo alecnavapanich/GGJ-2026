@@ -7,6 +7,7 @@ public class MainMenu : MonoBehaviour
     public void StartButton()
     {
         Debug.Log("StartButton called successfully!");
+        DontDestroyOnLoad(SFXManager.instance);
         SceneManager.LoadScene("MainScene");
     }
 

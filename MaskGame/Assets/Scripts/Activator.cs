@@ -16,6 +16,7 @@ public class Activator : MonoBehaviour, IDisplaysMask
     // TODO: Move this into PlayerMovement once that one changes sprites?
     [SerializeField] SpriteRenderer maskSR;
     [SerializeField] SpriteList maskSprites;
+    [SerializeField] GameObject gameOverScreen;
     public void Display(Mask.Type type)
     {
         Sprite spr;
@@ -118,6 +119,7 @@ public class Activator : MonoBehaviour, IDisplaysMask
         foreach (PermissionZone zone in zones)
         {
             if (!zone.AllowedMasks().Contains(t))
+                gameOverScreen.SetActive(true);
                 Debug.Log("YOU'RE NOT ALLOWED HERE!!!!! YOU LOSE!!!!!");
         }
     }
