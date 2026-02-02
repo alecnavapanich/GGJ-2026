@@ -120,9 +120,11 @@ public class Activator : MonoBehaviour, IDisplaysMask
         foreach (PermissionZone zone in zones)
         {
             if (!zone.AllowedMasks().Contains(t))
+            {
                 SFXManager.instance.playAudioClip(gameOverClip, transform, 1f);
                 gameOverScreen.SetActive(true);
                 Debug.Log("YOU'RE NOT ALLOWED HERE!!!!! YOU LOSE!!!!!");
+            }
         }
     }
 }
