@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: FloorMaskSprites
   m_EditorClassIdentifier: Assembly-CSharp::SpriteList
   sprites:
-  - {fileID: 0}
+  - {fileID: -2813650057074386281, guid: ab0de4f2fb2deb94db93cf5145b25563, type: 3}
   - {fileID: 4979860514757071537, guid: 6ab7cd518da29fd44a2315817fcb1f9d, type: 3}
   - {fileID: 957323904630550483, guid: 23c0d8bd710514441a87c021a2da5190, type: 3}

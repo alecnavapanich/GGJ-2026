@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Masks
   m_EditorClassIdentifier: Assembly-CSharp::SpriteList
   sprites:
-  - {fileID: 0}
+  - {fileID: -2813650057074386281, guid: ab0de4f2fb2deb94db93cf5145b25563, type: 3}
   - {fileID: -2813650057074386281, guid: ab0de4f2fb2deb94db93cf5145b25563, type: 3}
   - {fileID: -8097977499013908606, guid: 209ecc580c5e8af429a95334adfde63e, type: 3}

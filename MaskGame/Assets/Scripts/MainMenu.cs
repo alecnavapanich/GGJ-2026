@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
     public void StartButton()
     {
         Debug.Log("StartButton called successfully!");
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("MainScene");
     }
 
     public void ExitButton()
