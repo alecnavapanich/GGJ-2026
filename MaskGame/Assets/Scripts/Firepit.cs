@@ -9,6 +9,7 @@ public class Firepit : MonoBehaviour, IActivatable
     [SerializeField] List<Firepit> linkedPits;
     [SerializeField] GameObject warriorZone; //setpiece including fire particles, permission zone, and NPCs
     [SerializeField] bool on;
+    [SerializeField] AudioClip fireLitClip;
 
     public void Activate(GameObject player)
     {
@@ -22,6 +23,7 @@ public class Firepit : MonoBehaviour, IActivatable
 
     public void SetOn(bool b)
     {
+        SFXManager.instance.playAudioClip(fireLitClip, transform, 1f);
         on = b;
     }
 

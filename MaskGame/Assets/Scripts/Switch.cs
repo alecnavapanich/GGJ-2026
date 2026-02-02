@@ -9,6 +9,8 @@ public class Switch : MonoBehaviour
     [SerializeField] List<GameObject> linkedObjects; //these objects disappear when this is pressed
     [SerializeField] Sprite unpressedSprite;
     [SerializeField] Sprite pressedSprite;
+    [SerializeField] AudioClip switchOnClip;
+    [SerializeField] AudioClip switchOffClip;
     List<Heavy> pressers = new List<Heavy>();
     bool pressed;
 
@@ -61,9 +63,17 @@ public class Switch : MonoBehaviour
         pressed = b;
         Sprite s;
         if (pressed)
+        {
+        
+            SFXManager.instance.playAudioClip(switchOnClip, transform, 1f);
             s = pressedSprite;
+        }
         else
+        {
+        
+            SFXManager.instance.playAudioClip(switchOffClip, transform, 1f);
             s = unpressedSprite;
+        }
         GetComponent<SpriteRenderer>().sprite = s;
         foreach (GameObject obj in linkedObjects)
         {

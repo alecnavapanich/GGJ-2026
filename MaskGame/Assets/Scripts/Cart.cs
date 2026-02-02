@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class Cart : MonoBehaviour, IActivatable
 {
+    [SerializeField] AudioClip cartHeldClip;
+    [SerializeField] AudioClip cartDroppedClip;
     bool held;
 
     public void Activate(GameObject player)
@@ -17,9 +19,13 @@ public class Cart : MonoBehaviour, IActivatable
         {
             rb.bodyType = RigidbodyType2D.Kinematic;
             rb.linearVelocity = Vector3.zero;
+            SFXManager.instance.playAudioClip(cartHeldClip, transform, 1f);
         }
         else
+        {
             rb.bodyType = RigidbodyType2D.Dynamic;
+            SFXManager.instance.playAudioClip(cartDroppedClip, transform, 1f);
+        }
         Transform parent;
         if (held)
             parent = holder.transform;

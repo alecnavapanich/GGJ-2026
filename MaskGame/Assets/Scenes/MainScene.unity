@@ -305,6 +305,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 957323904630550483, guid: 23c0d8bd710514441a87c021a2da5190, type: 3}
+    - target: {fileID: 3206766008507876100, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
+      propertyPath: maskPickupClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3744a36dc77e2479ba3e4694cb4cc09b, type: 3}
     - target: {fileID: 4063969462712224569, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
       propertyPath: m_Name
       value: MaskPickup (1)
@@ -526,7 +530,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 2560, y: 1600}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -6074,6 +6078,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3206766008507876100, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
+      propertyPath: maskPickupClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3744a36dc77e2479ba3e4694cb4cc09b, type: 3}
     - target: {fileID: 4063969462712224569, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
       propertyPath: m_Name
       value: MaskPickup (2)
@@ -7272,6 +7280,135 @@ Transform:
   - {fileID: 1974657856}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &612124807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 612124809}
+  - component: {fileID: 612124808}
+  m_Layer: 0
+  m_Name: amb_loop
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &612124808
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612124807}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 90bd38ae5aad14f539ba380fa7c98839, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &612124809
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 612124807}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.82217, y: -2.49491, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &638982693
 GameObject:
   m_ObjectHideFlags: 0
@@ -7631,24 +7768,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: footstepClips.Array.size
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: 'footstepClips.Array.data[0]'
       value: 
-      objectReference: {fileID: 8300000, guid: 6c2c6beee2230474ea86d229f70bc2c7, type: 3}
+      objectReference: {fileID: 8300000, guid: 1dc30e602de3f42ba82a2e298aa09547, type: 3}
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: 'footstepClips.Array.data[1]'
       value: 
-      objectReference: {fileID: 8300000, guid: bfed4dcd48d454f81963c6ae186f5b65, type: 3}
+      objectReference: {fileID: 8300000, guid: c5c36a8493daf4802b507d7f6bddf3c9, type: 3}
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: 'footstepClips.Array.data[2]'
       value: 
-      objectReference: {fileID: 8300000, guid: e92284d2f7a8442609844b67abe436ed, type: 3}
+      objectReference: {fileID: 8300000, guid: 735f2e754d93842f4bb8807ab8a4dd3a, type: 3}
     - target: {fileID: 811358225502061091, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: 'footstepClips.Array.data[3]'
       value: 
-      objectReference: {fileID: 8300000, guid: a2d6c47bc975e4046becef2aad950007, type: 3}
+      objectReference: {fileID: 8300000, guid: bfed4dcd48d454f81963c6ae186f5b65, type: 3}
     - target: {fileID: 3805161206360184002, guid: 738aa9348ffb347f4a11454b25a60d34, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.17
@@ -12892,6 +13029,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Firepit (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5822279204389464384, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.3428571
+      objectReference: {fileID: 0}
+    - target: {fileID: 5822279204389464384, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.8857143
+      objectReference: {fileID: 0}
     - target: {fileID: 5915323577082329406, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8.21
@@ -12936,6 +13081,10 @@ PrefabInstance:
       propertyPath: on
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7505604208337494704, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: fireLitClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cc604e0f7e7842e299695bc332ba04f, type: 3}
     - target: {fileID: 7505604208337494704, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
       propertyPath: warriorZone
       value: 
@@ -14646,6 +14795,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: cart_0
       objectReference: {fileID: 0}
+    - target: {fileID: 6774549839553079186, guid: 19fed939b04784e4bbcb827607ce3e62, type: 3}
+      propertyPath: cartHeldClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2b4134a7c6e994c748c8485dc824c669, type: 3}
+    - target: {fileID: 6774549839553079186, guid: 19fed939b04784e4bbcb827607ce3e62, type: 3}
+      propertyPath: cartDroppedClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 065cf56260e3645f28546e31836ecc66, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -14800,6 +14957,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Firepit
       objectReference: {fileID: 0}
+    - target: {fileID: 5822279204389464384, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 1.3428571
+      objectReference: {fileID: 0}
+    - target: {fileID: 5822279204389464384, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.8857143
+      objectReference: {fileID: 0}
     - target: {fileID: 5915323577082329406, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
       propertyPath: m_LocalScale.x
       value: 1
@@ -14844,6 +15009,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7505604208337494704, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
+      propertyPath: fireLitClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1cc604e0f7e7842e299695bc332ba04f, type: 3}
     - target: {fileID: 7505604208337494704, guid: 68e16e1b2d286e349981d714233f8220, type: 3}
       propertyPath: warriorZone
       value: 
@@ -14968,7 +15137,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1183452916265291543, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
       propertyPath: m_SpriteTilingProperty.pivot.y
-      value: 0.8
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1183452916265291543, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
@@ -15079,9 +15248,17 @@ PrefabInstance:
       value: 2084675001
       objectReference: {fileID: 0}
     - target: {fileID: 8466077010769742255, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
+      propertyPath: switchOnClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 952706c7c40644210a6e8d286545c0c4, type: 3}
+    - target: {fileID: 8466077010769742255, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
       propertyPath: pressedSprite
       value: 
       objectReference: {fileID: 1352903909125684567, guid: 11c3b891cffcff2458badb3f223aae48, type: 3}
+    - target: {fileID: 8466077010769742255, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
+      propertyPath: switchOffClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8b80bacc3420240f8bf24f3dbba72525, type: 3}
     - target: {fileID: 8466077010769742255, guid: 3b0f6b31b5161e64da45b6ba708c9650, type: 3}
       propertyPath: unpressedSprite
       value: 
@@ -15103,6 +15280,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3206766008507876100, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
+      propertyPath: maskPickupClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3744a36dc77e2479ba3e4694cb4cc09b, type: 3}
     - target: {fileID: 4063969462712224569, guid: 572688d045a5ba8499921b33b91a09ff, type: 3}
       propertyPath: m_Name
       value: MaskPickup
@@ -15174,3 +15355,4 @@ SceneRoots:
   - {fileID: 1036125210}
   - {fileID: 193564065}
   - {fileID: 217594444}
+  - {fileID: 612124809}

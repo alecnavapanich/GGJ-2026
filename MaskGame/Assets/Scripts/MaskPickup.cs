@@ -7,11 +7,13 @@ using UnityEngine;
 public class MaskPickup : MonoBehaviour, IActivatable, IDisplaysMask
 {
     [SerializeField] SpriteList maskPickupSprites; //every mask-on-floor sprite in enum order
+    [SerializeField] AudioClip maskPickupClip;
 
     // On activation, the player switches their mask with this mask.
     public void Activate(GameObject player)
     {
         player.GetComponent<Mask>().SwapMasks(this.GetComponent<Mask>());
+        SFXManager.instance.playAudioClip(maskPickupClip, transform, 1f);
         //PLAY sound effect
     }
 
